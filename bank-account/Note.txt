@@ -1,0 +1,5 @@
+Mediator Pattern
+  . Behavioral Design Pattern
+  . Promotes loose coupling by preventing objects from referring to each other explicitly
+  . Simplifies communication between objects by introducing a single object known as mediator that message the distribution
+    of message among other objects
